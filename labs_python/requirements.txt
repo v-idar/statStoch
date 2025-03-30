@@ -1,0 +1,7 @@
+librosa
+matplotlib
+numpy==1.26
+scipy
+python-sounddevice
+ipykernel
+PyQt6
